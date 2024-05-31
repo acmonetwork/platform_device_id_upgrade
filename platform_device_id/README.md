@@ -1,6 +1,9 @@
-# platform_device_id
+# platform_device_id_upgrade
+This pluggin is upgraded version of platform_device_id,
+Upgrade includes: 
+- migrate dependency device_info to device_info_plus 
+- upgrade gradle to version 7x for compatibility with new flutter versions
 
-get device id from android、ios、windows、linux、mac、web
 
 ## Description
 

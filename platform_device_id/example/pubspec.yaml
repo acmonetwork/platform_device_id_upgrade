@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  platform_device_id:
+  platform_device_id_upgrade:
     path: ../
   cupertino_icons: ^1.0.2
 
