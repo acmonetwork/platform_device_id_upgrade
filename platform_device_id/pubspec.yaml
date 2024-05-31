@@ -1,6 +1,6 @@
 name: platform_device_id_upgrade
 description: This is upgraded version of platform_device_id
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/dttrung-99931/platform_device_id
 
 environment:
